@@ -1,4 +1,4 @@
-# Predicting-Medical-Expenses-ML
+# Predicting-Medical-Insurance-ML
 
 ## Problem Statement
 
