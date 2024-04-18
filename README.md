@@ -1,7 +1,5 @@
 # Predicting-Medical-Expenses-Using-ML
 
-![](https://i.imgur.com/1EzyZvj.png)
-
 ## Problem Statement
 
 ACME Insurance Inc. aims to offer affordable health insurance to customers across the United States. As the lead data scientist, our tasked with developing an automated system to estimate the annual medical expenditure for new customers. The system should use customer information such as age, sex, BMI, number of children, smoking habits, and region of residence to predict the annual insurance premium. The system must comply with regulatory requirements, ensuring transparency and explainability in its predictions.
