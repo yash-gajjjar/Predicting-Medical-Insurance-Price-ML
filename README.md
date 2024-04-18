@@ -13,11 +13,4 @@ You're given a [CSV file](https://raw.githubusercontent.com/JovianML/opendataset
 Dataset source: https://github.com/stedy/Machine-Learning-with-R-datasets
 
 ## Summary
-
-We've covered the following topics in this problem:
-
-- Linear regression with one variable using Scikit-learn
-- Linear regression with multiple variables 
-- Using categorical features for machine learning
-- Regression coefficients and feature importance
-- Creating a training and test set for reporting results
+Used various supervised machine learning models and achieved 98% accuracy with the CatBoost algorithm
