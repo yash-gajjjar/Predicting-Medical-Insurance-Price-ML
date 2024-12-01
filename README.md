@@ -8,7 +8,5 @@ You're given a [CSV file](https://raw.githubusercontent.com/JovianML/opendataset
 
 <img src="https://i.imgur.com/87Uw0aG.png" width="480">
 
-Dataset source: https://github.com/stedy/Machine-Learning-with-R-datasets
-
 ## Summary
 Used various supervised machine learning models and achieved 98% accuracy with the CatBoost algorithm
